@@ -21,3 +21,4 @@
 - [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
 - [Limites de tamanho de politica, efetivamente tamanho do json que a define](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-quotas.html#reference_iam-quotas-entity-length)
 - [Logica de avaliacao de politicas IAM](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_policies_evaluation-logic.html)
+- [Variavies de ambiente podem armazenar configurações da CLI](https://docs.aws.amazon.com/cli/v1/userguide/cli-configure-envvars.html)
