@@ -9,3 +9,5 @@
 - [X-ray está sendo descontinuado](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 - [Sigv4, necessario para enviar pedidos para AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html)
 - [Criando um pedido assinado com Sigv4, passo-a-passo](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv-create-signed-request.html)
+- [Toolkits e SDKs](https://aws.amazon.com/products/developer-tools/)
+- O link acima te leva para o [builder center](https://builder.aws.com/build/tools), que vale a pena explorar, em especial as organizacoes de [labs](https://github.com/awslabs) e [samples](https://github.com/aws-samples)
