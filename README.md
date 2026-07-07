@@ -6,3 +6,4 @@
 
 ## Links do dia 1
 - [URL de funcoes Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [X-ray está sendo descontinuado](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
