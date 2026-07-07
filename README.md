@@ -7,3 +7,5 @@
 ## Links do dia 1
 - [URL de funcoes Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [X-ray está sendo descontinuado](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
+- [Sigv4, necessario para enviar pedidos para AWS](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv.html)
+- [Criando um pedido assinado com Sigv4, passo-a-passo](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv-create-signed-request.html)
