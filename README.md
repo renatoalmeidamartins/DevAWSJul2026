@@ -12,3 +12,7 @@
 - [Toolkits e SDKs](https://aws.amazon.com/products/developer-tools/)
 - O link acima te leva para o [builder center](https://builder.aws.com/build/tools), que vale a pena explorar, em especial as organizacoes de [labs](https://github.com/awslabs) e [samples](https://github.com/aws-samples)
 - [Retries nos SDKs](https://docs.aws.amazon.com/sdkref/latest/guide/feature-retry-behavior.html)
+- Cada SDK honra as primitivas, ou práticas de desenvolvimento, da linguagem em questão. Um bom exemplo disso é o uso de waiters (para esperar conclusão de operações assíncronas), onde usando o exemplo de CreateTable no DynamoDB, temos:
+  - No [.Net](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/getting-started-step-1.html), usa-se task, await, e a chamada Async
+  - Em [Python](https://docs.aws.amazon.com/boto3/latest/reference/services/dynamodb/client/get_waiter.html), usa-se o get_waiter
+  - En [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/examples-dynamodb-tables.html), usa-se a classe DynamoDbWaiter
