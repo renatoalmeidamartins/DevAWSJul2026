@@ -18,3 +18,4 @@
   - En [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/examples-dynamodb-tables.html), usa-se a classe DynamoDbWaiter
 - Publicação de métricas do SDK, por exmplo,  [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/metrics.html)
 - [Kiro, IDE agentica](https://kiro.dev/)
+- [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
