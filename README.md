@@ -19,3 +19,4 @@
 - Publicação de métricas do SDK, por exmplo,  [Java](https://docs.aws.amazon.com/sdk-for-java/latest/developer-guide/metrics.html)
 - [Kiro, IDE agentica](https://kiro.dev/)
 - [IAM policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
+- [Limites de tamanho de politica, efetivamente tamanho do json que a define](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_iam-quotas.html#reference_iam-quotas-entity-length)
