@@ -11,3 +11,4 @@
 - [Criando um pedido assinado com Sigv4, passo-a-passo](https://docs.aws.amazon.com/IAM/latest/UserGuide/reference_sigv-create-signed-request.html)
 - [Toolkits e SDKs](https://aws.amazon.com/products/developer-tools/)
 - O link acima te leva para o [builder center](https://builder.aws.com/build/tools), que vale a pena explorar, em especial as organizacoes de [labs](https://github.com/awslabs) e [samples](https://github.com/aws-samples)
+- [Retries nos SDKs](https://docs.aws.amazon.com/sdkref/latest/guide/feature-retry-behavior.html)
