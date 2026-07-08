@@ -45,3 +45,4 @@
 - [Desde dezembro de 2025, S3 Object Lambda nao existe mais. Alternativas listadas aqui](https://docs.aws.amazon.com/AmazonS3/latest/userguide/amazons3-ol-change.html)
 - [Acesso temporario a objetos no S3 - presign](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
 - [Operacoes batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html)
+- [Uso de CORS no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ManageCorsUsing.html)
