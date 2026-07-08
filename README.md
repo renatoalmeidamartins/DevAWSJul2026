@@ -50,3 +50,6 @@
 - [AWS suportando Valkey em lugar do Redis](https://aws.amazon.com/elasticache/redis/)
 - [Normalização em bancos de dados relacionais](https://en.wikipedia.org/wiki/Database_normalization)
 - [Dynamo paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
+- [ExtendDB, DynamoDB open-source com armazenamento plugável](https://aws.amazon.com/blogs/database/introducing-extenddb-an-open-source-dynamodb-compatible-adapter-with-pluggable-storage-backends/)
+- [NoSQL workbench, excelente para modelagem nao-relacional](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
+- [DynamoDB local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
