@@ -30,3 +30,4 @@
 
 ## Links do dia 2
 - [Tipos de volume do EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
+- [Tamanho máximo de objeto no S3 agora é de 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
