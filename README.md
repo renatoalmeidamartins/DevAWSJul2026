@@ -30,6 +30,7 @@
 
 ## Links do dia 2
 - [Tipos de volume do EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
+- [11 9's de durabilidade, descrito na Google](https://cloud.google.com/blog/products/storage-data-transfer/understanding-cloud-storage-11-9s-durability-target)
 - [Tamanho máximo de objeto no S3 agora é de 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
 - Tipos de bucket S3, além do tradicional "general purpose":
   - [File system](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
