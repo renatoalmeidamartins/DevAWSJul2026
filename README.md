@@ -37,3 +37,4 @@
   - [Vector buckets](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
   - [Tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
   - [Directory bucket / S3 express one-zone](https://aws.amazon.com/s3/storage-classes/express-one-zone/)
+- [Video falando sobre a durabilidade do S3](https://www.youtube.com/watch?v=XyRdMT4zUrA)
