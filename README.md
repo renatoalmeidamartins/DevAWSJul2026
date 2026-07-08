@@ -58,3 +58,5 @@
 - [DynamoDB local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
 - [waits disponiveis no DynamoDB, para outros servicos usar uma URL assim: https://docs.aws.amazon.com/cli/latest/reference/<servico>/wait/  ](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wait/)
 - [Operacoes de modificacao de dados no Dynamodb pode ser condicionais](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Expressions.ConditionExpressions.html), neste caso [estas](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Expressions.OperatorsAndFunctions.html) são as condições disponiveis
+- [Modificacao de varios itens por vez no Dynamodb batch-write-item](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/batch-write-item.html)
+- [Scan paralelo no dynamodb, deve ser codificado pela aplicacao ](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan)
