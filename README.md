@@ -56,3 +56,4 @@
 - [Choosing the Right DynamoDB Partition Key](https://aws.amazon.com/blogs/database/choosing-the-right-dynamodb-partition-key/)
 - [NoSQL workbench, excelente para modelagem nao-relacional](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/workbench.html)
 - [DynamoDB local](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DynamoDBLocal.html)
+- [waits disponiveis no DynamoDB, para outros servicos usar uma URL assim: https://docs.aws.amazon.com/cli/latest/reference/<servico>/wait/  ](https://docs.aws.amazon.com/cli/latest/reference/dynamodb/wait/)
