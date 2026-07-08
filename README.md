@@ -49,3 +49,4 @@
 - [Multipart upload, existem alternativas de alto nivel para evitar chamads diretas de multipart upload](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-upload-object.html), [S3TransferManager](https://docs.aws.amazon.com/java/api/latest/software/amazon/awssdk/transfer/s3/S3TransferManager.Builder.html) em Java, [transfer](https://docs.aws.amazon.com/boto3/latest/guide/s3.html) em python e [TransferUtility](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HLuploadDirDotNet.html) em .Net ([outro exemplo em .Net](https://aws.amazon.com/blogs/developer/introducing-multipart-download-support-for-aws-sdk-for-net-transfer-manager/))
 - [AWS suportando Valkey em lugar do Redis](https://aws.amazon.com/elasticache/redis/)
 - [Normalização em bancos de dados relacionais](https://en.wikipedia.org/wiki/Database_normalization)
+- [Dynamo paper](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
