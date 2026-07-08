@@ -31,3 +31,8 @@
 ## Links do dia 2
 - [Tipos de volume do EBS](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html)
 - [Tamanho máximo de objeto no S3 agora é de 50 TB](https://aws.amazon.com/about-aws/whats-new/2025/12/amazon-s3-maximum-object-size-50-tb/)
+- Tipos de bucket S3, além do tradicional "general purpose":
+  - [File system](https://aws.amazon.com/blogs/aws/launching-s3-files-making-s3-buckets-accessible-as-file-systems/)
+  - [Vector buckets](https://aws.amazon.com/blogs/aws/introducing-amazon-s3-vectors-first-cloud-storage-with-native-vector-support-at-scale/)
+  - [Tables](https://aws.amazon.com/blogs/aws/new-amazon-s3-tables-storage-optimized-for-analytics-workloads/)
+  - [Directory bucket / S3 express one-zone](https://aws.amazon.com/s3/storage-classes/express-one-zone/)
