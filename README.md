@@ -46,3 +46,4 @@
 - [Acesso temporario a objetos no S3 - presign](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
 - [Operacoes batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html)
 - [Uso de CORS no S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ManageCorsUsing.html)
+- [Multipart upload, existem alternativas de alto nivel para evitar chamads diretas de multipart upload](https://docs.aws.amazon.com/AmazonS3/latest/userguide/mpu-upload-object.html), [S3TransferManager](https://docs.aws.amazon.com/java/api/latest/software/amazon/awssdk/transfer/s3/S3TransferManager.Builder.html) em Java, [transfer](https://docs.aws.amazon.com/boto3/latest/guide/s3.html) em python e [TransferUtility](https://docs.aws.amazon.com/AmazonS3/latest/userguide/HLuploadDirDotNet.html) em .Net
