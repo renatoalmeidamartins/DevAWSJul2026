@@ -42,3 +42,6 @@
 - [Endpoints existentes em S3](https://docs.aws.amazon.com/general/latest/gr/s3.html)
 - [PrivateLink em S3, para acesso atraves de VPCs sem internet - em realidade, disponivel para praticamente todos servicos AWS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/privatelink-interface-endpoints.html)
 - [Filtrando saida na CLI](https://docs.aws.amazon.com/cli/v1/userguide/cli-usage-filter.html)
+- [Desde dezembro de 2025, S3 Object Lambda nao existe mais. Alternativas listadas aqui](https://docs.aws.amazon.com/AmazonS3/latest/userguide/amazons3-ol-change.html)
+- [Acesso temporario a objetos no S3 - presign](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ShareObjectPreSignedURL.html)
+- [Operacoes batch](https://docs.aws.amazon.com/AmazonS3/latest/userguide/batch-ops.html)
