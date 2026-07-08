@@ -26,3 +26,4 @@
 - [Ordem de "busca"de credenciais para conexão com AWS](https://docs.aws.amazon.com/cli/v1/userguide/cli-chap-authentication.html)
 - [Comando AssumeRole na API Rest](https://docs.aws.amazon.com/STS/latest/APIReference/API_AssumeRole.html)
 - [IAM Roles Anywhere permite que servicos fora da AWS assumam roles na AWS](https://docs.aws.amazon.com/rolesanywhere/latest/userguide/introduction.html)
+- [Uso do Identity Center](https://docs.aws.amazon.com/singlesignon/latest/userguide/what-is.html)
