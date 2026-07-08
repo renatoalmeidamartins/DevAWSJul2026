@@ -39,3 +39,5 @@
   - [Directory bucket / S3 express one-zone](https://aws.amazon.com/s3/storage-classes/express-one-zone/)
 - [Video falando sobre a durabilidade do S3](https://www.youtube.com/watch?v=XyRdMT4zUrA)
 - [Forcando transporte seguro e uma versao especifica de TLS em um bucket](https://aws.amazon.com/blogs/storage/enforcing-encryption-in-transit-with-tls1-2-or-higher-with-amazon-s3/)
+- [Endpoints existentes em S3](https://docs.aws.amazon.com/general/latest/gr/s3.html)
+- [PrivateLink em S3, para acesso atraves de VPCs sem internet - em realidade, disponivel para praticamente todos servicos AWS](https://docs.aws.amazon.com/AmazonS3/latest/userguide/privatelink-interface-endpoints.html)
