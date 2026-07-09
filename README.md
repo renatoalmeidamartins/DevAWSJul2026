@@ -81,3 +81,6 @@
   - [S3 Files, desde abril de 2026](https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files/)
   - Funções Lambda recebem um evento na sua invocação. A AWS publica um schema de muitos eventos de quase todos os serviços, conforme se vê [aqui](https://aws.amazon.com/blogs/compute/working-with-events-and-amazon-eventbridge-schema-registry/). Também é possível ver eventos de exemplo, quando se cria uma regra no Eventbridge (por exemplo, [estes de S3](https://docs.aws.amazon.com/AmazonS3/latest/userguide/ev-events.html) têm exemplos)
 - Contexto em  Lambda expões diversos dados sobre o runtime dele. Estes podem ser obtidos com operações na linguagem em uso, como por exemplo [em Python](https://docs.aws.amazon.com/lambda/latest/dg/python-context.html)
+- [Habiltando respostas streamed em Lambda, que possibilita payload maior](https://docs.aws.amazon.com/lambda/latest/dg/configuration-response-streaming.html)
+- [Cotas em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
+- [Lambda agora suporta MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
