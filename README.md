@@ -70,3 +70,5 @@
 - [Managed instances no Lambda, permitem maior alocação de memória](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
 - [Modos de invocação de funções Lambda - sincrono, assincrono, e "polling"](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html)
 - [URL para funções Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
+- [Melhores praticas no uso de Lambda - atencao para o reuso de ambientes](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
+- [Lambda snapstart](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
