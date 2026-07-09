@@ -97,3 +97,4 @@
   - [Unicorn project](https://www.amazon.com.br/Unicorn-Project-Developers-Disruption-Thriving-ebook)
   - [DevOps handbook](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations-ebook)
   - [Accelerate](https://www.amazon.com.br/dp/1942788339)
+- Strangler Fig, como definido na [AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/strangler-fig.html) e pelo criador, [Martinf Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html), presente no livro [Patterns of Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin)
