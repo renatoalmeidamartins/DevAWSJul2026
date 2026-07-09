@@ -62,3 +62,4 @@
 - [Scan paralelo no dynamodb, deve ser codificado pela aplicacao ](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/Scan.html#Scan.ParallelScan)
 - [Estrategias tipicas de uso de cache (exemplo antigo, mas o conceito ainda é relevante](https://docs.aws.amazon.com/whitepapers/latest/database-caching-strategies-using-redis/caching-patterns.html)
 - [A modificação de uma aplicação DynamoDB tradicional para que passe a usar DAX é de uma linha](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/DAX.client.modify-your-app.html)
+- [TTL no DynamoDB](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/TTL.html)
