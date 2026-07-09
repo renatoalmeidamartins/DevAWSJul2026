@@ -91,3 +91,9 @@
 - [Controlando recursividade em Lambda](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-recursive-loop-detection-apis/)
 - [Referencia de mapping template no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
 - [Como usar chave de API no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-usage-plan-test-with-postman.html)
+- [Video que "lançou" o movimento DevOps](https://www.youtube.com/watch?v=LdOe18KhtT4)
+- Livros importantes sobre devops:
+  - [Phoenix project](https://www.amazon.com.br/Phoenix-Project-Helping-Business-English-ebook)
+  - [Unicorn project](https://www.amazon.com.br/Unicorn-Project-Developers-Disruption-Thriving-ebook)
+  - [DevOps handbook](https://www.amazon.com.br/DevOps-Handbook-World-Class-Reliability-Organizations-ebook)
+  - [Accelerate](https://www.amazon.com.br/dp/1942788339)
