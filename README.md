@@ -72,3 +72,4 @@
 - [URL para funções Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [Melhores praticas no uso de Lambda - atencao para o reuso de ambientes](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 - [Lambda snapstart](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
+- [Artigo no medium bem detalhado indicando formas de otimizar execução de funções Lambda](https://medium.com/@raymunene/aws-lambda-function-lifecycle-and-execution-environment-a-deep-dive-5e59289ec962)
