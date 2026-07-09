@@ -87,3 +87,4 @@
 - [Vantagens do uso de layers em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html)
 - [Uso de imagens de container como runtime de Lambda](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
 - [Uso do runtime de Amazon Linux para Lambda](https://aws.amazon.com/blogs/compute/introducing-the-amazon-linux-2023-runtime-for-aws-lambda/)
+- [Integração de Lambda com VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
