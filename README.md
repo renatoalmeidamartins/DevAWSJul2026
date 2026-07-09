@@ -68,3 +68,5 @@
 - [Parodia musical do Lambda](https://www.youtube.com/watch?v=zMua0cuhFnc&list=RDzMua0cuhFnc&start_radio=1)
 - [Funcões duráveis em Lambda](https://aws.amazon.com/blogs/aws/build-multi-step-applications-and-ai-workflows-with-aws-lambda-durable-functions/)
 - [Managed instances no Lambda, permitem maior alocação de memória](https://aws.amazon.com/blogs/aws/introducing-aws-lambda-managed-instances-serverless-simplicity-with-ec2-flexibility/)
+- [Modos de invocação de funções Lambda - sincrono, assincrono, e "polling"](https://docs.aws.amazon.com/lambda/latest/dg/lambda-invocation.html)
+- [URL para funções Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
