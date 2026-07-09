@@ -76,3 +76,6 @@
 - [Melhores praticas no uso de Lambda - atencao para o reuso de ambientes](https://docs.aws.amazon.com/lambda/latest/dg/best-practices.html)
 - [Lambda snapstart](https://docs.aws.amazon.com/lambda/latest/dg/snapstart.html)
 - [Artigo no medium bem detalhado indicando formas de otimizar execução de funções Lambda](https://medium.com/@raymunene/aws-lambda-function-lifecycle-and-execution-environment-a-deep-dive-5e59289ec962)
+- Funções Lambda podem acessar um sistemas de arquivos:
+  - [EFS, desde 2020](https://aws.amazon.com/blogs/aws/new-a-shared-file-system-for-your-lambda-functions/)
+  - [S3 Files, desde abril de 2026](https://aws.amazon.com/blogs/compute/modernizing-lambda-s3-workloads-with-amazon-s3-files/)
