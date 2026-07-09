@@ -85,3 +85,5 @@
 - [Cotas em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
 - [Lambda agora suporta MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
 - [Vantagens do uso de layers em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html)
+- [Uso de imagens de container como runtime de Lambda](https://docs.aws.amazon.com/lambda/latest/dg/images-create.html)
+- [Uso do runtime de Amazon Linux para Lambda](https://aws.amazon.com/blogs/compute/introducing-the-amazon-linux-2023-runtime-for-aws-lambda/)
