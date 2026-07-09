@@ -84,3 +84,4 @@
 - [Habiltando respostas streamed em Lambda, que possibilita payload maior](https://docs.aws.amazon.com/lambda/latest/dg/configuration-response-streaming.html)
 - [Cotas em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-limits.html)
 - [Lambda agora suporta MicroVMs](https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/)
+- [Vantagens do uso de layers em Lambda](https://docs.aws.amazon.com/lambda/latest/dg/chapter-layers.html)
