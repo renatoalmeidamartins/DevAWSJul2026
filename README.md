@@ -89,3 +89,5 @@
 - [Uso do runtime de Amazon Linux para Lambda](https://aws.amazon.com/blogs/compute/introducing-the-amazon-linux-2023-runtime-for-aws-lambda/)
 - [Integração de Lambda com VPC](https://docs.aws.amazon.com/lambda/latest/dg/configuration-vpc.html)
 - [Controlando recursividade em Lambda](https://aws.amazon.com/blogs/compute/aws-lambda-introduces-recursive-loop-detection-apis/)
+- [Referencia de mapping template no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-mapping-template-reference.html)
+- [Como usar chave de API no API gateway](https://docs.aws.amazon.com/apigateway/latest/developerguide/api-gateway-usage-plan-test-with-postman.html)
