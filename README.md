@@ -134,5 +134,5 @@
   - [Repo com os templates de aplicação](https://github.com/aws/aws-sam-cli-app-templates)
   - [CLI](https://github.com/aws/aws-sam-cli)
   - [Definições](https://github.com/aws/serverless-application-model)
- 
+ - [X-ray foi descontinuado em fevereiro de 2026](https://docs.aws.amazon.com/xray/latest/devguide/xray-gettingstarted.html) em favor de OpenTelemetry. Há [instruções de migração e comparativos](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
 
