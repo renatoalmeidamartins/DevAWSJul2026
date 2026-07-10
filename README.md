@@ -8,7 +8,7 @@
 ## Links de preparação para exame
 - [Landing page do exame de developer](https://aws.amazon.com/certification/certified-developer-associate/) (atenção ao four-step plan)
 - [4-step plan do exame, dentro do skill builder](https://skillbuilder.aws/category/exam-prep/developer-associate-DVA-C02)
-
+- Envio do voucher será realizado na semana posterior ao final do curso
 ## Meus dados de contato
 - [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
 - Email: renatoalmeidamartins@gmail.com
