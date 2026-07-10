@@ -1,6 +1,9 @@
 # DevAWSJul2026
 
-## [Link para avaliação do curso](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=980cd647-8f13-4f7b-b5d5-4fe61d997965&Q_Language=PT)
+## Links para avaliação do curso (sao 2, um da AWS - qualtrics, e o MTM, da Fast Lane):
+- [Qualtrics](https://au1.qualtrics.com/jfe/form/SV_cAAOvXJ4f0ffSLj?atpclassid=980cd647-8f13-4f7b-b5d5-4fe61d997965&Q_Language=PT)
+- [Metrics that matter](https://www.metricsthatmatter.com/url/u.aspx?681F9F11B237724852)
+  
 ## Links de acesso ao curso
 - [Link da reuniao](https://fast-lane.webex.com/fast-lane-pt-br/j.php?MTID=m5bc5c8e36e6d6e5432c089627e2762b0)
 - [Acesso a material e laboratorio](https://us-east-1.student.classrooms.aws.training/class/wg7nviASCKEoeAcxs36Ymt)
