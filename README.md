@@ -111,3 +111,4 @@
   - A definição da linguagem usada em step functions está [aqui](https://states-language.net/spec.html)
   - Pode-se chamar elementos fora do mundo AWS, por exemplo, usando [activities](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-activities.html)
   - Há três formas de executar etapas em setp functions, [request/response, job e callback](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)
+  - Podem execcutar como "standard" (que pode rodar por até 1 ano, com no máximo 2000 execuções por segundo. Aqui você é cobrado por transição de estado) ou [express](https://aws.amazon.com/blogs/compute/new-express-workflows-for-aws-step-functions/), que rodam por até 5 minutos e se cobra pela duração da execução. Comparativo adicional dos dois tipos [aqui](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/step-functions-workflows.html)
