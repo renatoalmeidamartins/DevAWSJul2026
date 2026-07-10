@@ -9,6 +9,9 @@
 - [Landing page do exame de developer](https://aws.amazon.com/certification/certified-developer-associate/) (atenção ao four-step plan)
 - [4-step plan do exame, dentro do skill builder](https://skillbuilder.aws/category/exam-prep/developer-associate-DVA-C02)
 
+## Meus dados de contato
+- [Linkedin](https://www.linkedin.com/in/renatodealmeidamartins/)
+- Email: renatoalmeidamartins@gmail.com
 ## Links do dia 1
 - [URL de funcoes Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
 - [X-ray está sendo descontinuado](https://docs.aws.amazon.com/xray/latest/devguide/xray-sdk-migration.html)
