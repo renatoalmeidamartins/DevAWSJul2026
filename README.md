@@ -105,5 +105,3 @@
 - O relatório é publicado em diversos lugares, às vezes varia por ano de publicação. Alguns exemplos:
   - [2024, no dora.dev](https://dora.dev/research/2024/dora-report/)
   - [Puppet labs, agora Perforce, tem um grande arquivo também](https://www.puppet.com/resources/history-of-devops-reports)
-  
-- 
