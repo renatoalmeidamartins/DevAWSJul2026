@@ -100,8 +100,14 @@
 - Strangler Fig, como definido na [AWS](https://docs.aws.amazon.com/prescriptive-guidance/latest/cloud-design-patterns/strangler-fig.html) e pelo criador, [Martinf Fowler](https://martinfowler.com/bliki/StranglerFigApplication.html), presente no livro [Patterns of Enterprise Application Architecture](https://www.amazon.com.br/Patterns-Enterprise-Application-Architecture-Martin)
 
 ## Links do dia 4
+- [Referência de como deve ser uma aplicação "moderna", 12 factor app](https://12factor.net/)
 - [Comparando Lambda durable functions com Step Functions](https://docs.aws.amazon.com/lambda/latest/dg/durable-step-functions.html)
 - [Martin Fowler comentando da importância do state of devops report, ainda em 2019](https://www.martinfowler.com/bliki/StateOfDevOpsReport.html)
 - O relatório é publicado em diversos lugares, às vezes varia por ano de publicação. Alguns exemplos:
   - [2024, no dora.dev](https://dora.dev/research/2024/dora-report/)
   - [Puppet labs, agora Perforce, tem um grande arquivo também](https://www.puppet.com/resources/history-of-devops-reports)
+- Step functions:
+  - Quase todos os serviços AWS suportam [integração via SDK](https://docs.aws.amazon.com/step-functions/latest/dg/supported-services-awssdk.html)
+  - A definição da linguagem usada em step functions está [aqui](https://states-language.net/spec.html)
+  - Pode-se chamar elementos fora do mundo AWS, por exemplo, usando [activities](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-activities.html)
+  - Há três formas de executar etapas em setp functions, [request/response, job e callback](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)
