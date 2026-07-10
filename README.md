@@ -112,3 +112,11 @@
   - Pode-se chamar elementos fora do mundo AWS, por exemplo, usando [activities](https://docs.aws.amazon.com/step-functions/latest/dg/concepts-activities.html)
   - Há três formas de executar etapas em setp functions, [request/response, job e callback](https://docs.aws.amazon.com/step-functions/latest/dg/connect-to-resource.html)
   - Podem execcutar como "standard" (que pode rodar por até 1 ano, com no máximo 2000 execuções por segundo. Aqui você é cobrado por transição de estado) ou [express](https://aws.amazon.com/blogs/compute/new-express-workflows-for-aws-step-functions/), que rodam por até 5 minutos e se cobra pela duração da execução. Comparativo adicional dos dois tipos [aqui](https://docs.aws.amazon.com/wellarchitected/latest/serverless-applications-lens/step-functions-workflows.html)
+- Protocolos e serviços envolvidos em autenticação e autorização
+  - [OIDC - OpenID connect](https://auth0.com/intro-to-iam/what-is-openid-connect-oidc)
+  - [SAML 2.0](https://auth0.com/intro-to-iam/what-is-saml), exemplo na [wikipedia](https://en.wikipedia.org/wiki/SAML_2.0)
+  - [OAuth 2.0](https://auth0.com/intro-to-iam/what-is-oauth-2), e sua [spec](https://oauth.net/2/)
+  - [JWT](https://auth0.com/docs/secure/tokens/json-web-tokens), e [aqui](https://www.jwt.io/introduction#what-is-json-web-token) mais doc e um debugger
+- Cognito
+  - [Introdução de planos - essentials e plus](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
+  - [Aumento de capacidade em junho de 2026](https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/)
