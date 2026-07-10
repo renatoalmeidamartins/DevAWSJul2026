@@ -7,7 +7,7 @@
 
 ## Links de preparação para exame
 - [Landing page do exame de developer](https://aws.amazon.com/certification/certified-developer-associate/) (atenção ao four-step plan)
-- 
+- [4-step plan do exame, dentro do skill builder](https://skillbuilder.aws/category/exam-prep/developer-associate-DVA-C02)
 
 ## Links do dia 1
 - [URL de funcoes Lambda](https://aws.amazon.com/blogs/aws/announcing-aws-lambda-function-urls-built-in-https-endpoints-for-single-function-microservices/)
