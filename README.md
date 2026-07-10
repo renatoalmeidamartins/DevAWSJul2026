@@ -123,3 +123,7 @@
 - Autorização no API gateway
   - [Autorizador Lambda](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
   - [Autorizador de user pool cognito](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-integrate-with-cognito.html)
+- Cultura de aprendizado e colaboração, evidenciada por itens como:
+  - Relatórios posteriores a incidentes, exemplos da [AWS](https://aws.amazon.com/premiumsupport/technology/pes/) e da [Azure](https://azure.status.microsoft/en-us/status/history/)
+  - Postmortem sem culpa, como sugerido pela [Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless) e definido no [livro de SRE do Google](https://sre.google/sre-book/postmortem-culture/)
+- Livros de SRE do google, todos [disponiveis online](https://sre.google/books/)
