@@ -120,3 +120,6 @@
 - Cognito
   - [Introdução de planos - essentials e plus](https://aws.amazon.com/blogs/aws/improve-your-app-authentication-workflow-with-new-amazon-cognito-features/)
   - [Aumento de capacidade em junho de 2026](https://aws.amazon.com/blogs/security/amazon-cognito-unlocks-advanced-capabilities-with-next-generation-infrastructure/)
+- Autorização no API gateway
+  - [Autorizador Lambda](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-use-lambda-authorizer.html)
+  - [Autorizador de user pool cognito](https://docs.aws.amazon.com/apigateway/latest/developerguide/apigateway-integrate-with-cognito.html)
