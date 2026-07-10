@@ -128,3 +128,4 @@
   - Postmortem sem culpa, como sugerido pela [Atlassian](https://www.atlassian.com/incident-management/postmortem/blameless) e definido no [livro de SRE do Google](https://sre.google/sre-book/postmortem-culture/)
 - Livros de SRE do google, todos [disponiveis online](https://sre.google/books/)
 - [CodeCommit segue vivo](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
+- [Tipos de recursos que podem ser criados via SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
