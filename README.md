@@ -138,3 +138,4 @@
 - [WOrkshop de observabilidade, que menciona applications signals](https://catalog.workshops.aws/observability/en-US)
 - [Application signals, para entre outras coisas, descoberta automatizada de aplicações](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/CloudWatch-Application-Monitoring-Sections.html)
 - [Cloudwatch application insights](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/appinsights-what-is.html)
+- [Alarmes compostos no Cloudwatch](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Create_Composite_Alarm.html)
