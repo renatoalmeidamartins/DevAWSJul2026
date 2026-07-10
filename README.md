@@ -129,3 +129,9 @@
 - Livros de SRE do google, todos [disponiveis online](https://sre.google/books/)
 - [CodeCommit segue vivo](https://aws.amazon.com/blogs/devops/aws-codecommit-returns-to-general-availability/)
 - [Tipos de recursos que podem ser criados via SAM](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/sam-specification-resources-and-properties.html)
+- SAM - Serverless Application Model
+  - [Repo com os templates de aplicação](https://github.com/aws/aws-sam-cli-app-templates)
+  - [CLI](https://github.com/aws/aws-sam-cli)
+  - [Definições](https://github.com/aws/serverless-application-model)
+ 
+
